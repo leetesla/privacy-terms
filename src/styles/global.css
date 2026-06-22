@@ -157,6 +157,10 @@
 		@apply my-4 text-muted-foreground;
 	}
 
+	.legal-prose > :first-child {
+		@apply mt-0;
+	}
+
 	.legal-prose ul,
 	.legal-prose ol {
 		@apply my-4 flex flex-col gap-2 pl-6 text-muted-foreground;

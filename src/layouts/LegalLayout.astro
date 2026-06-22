@@ -35,14 +35,14 @@ const hasFooterContent = Boolean(app.companyName || app.websiteUrl);
 	<body>
 		<div class="flex min-h-screen flex-col bg-background">
 			<header class="border-b bg-background/95">
-				<div class="mx-auto flex w-full max-w-3xl px-6 py-6">
+				<div class="mx-auto flex w-full max-w-3xl px-6 py-4">
 					<a class="text-lg font-medium text-foreground" href={`/${app.slug}/support`}>
 						{app.name}
 					</a>
 				</div>
 			</header>
 
-			<main class="mx-auto w-full max-w-3xl flex-1 px-6 py-10 sm:py-14">
+			<main class="mx-auto w-full max-w-3xl flex-1 px-6 pt-6 pb-10 sm:pt-8 sm:pb-12">
 				<slot />
 			</main>
 

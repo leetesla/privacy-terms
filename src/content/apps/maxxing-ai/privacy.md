@@ -3,6 +3,7 @@
 This privacy policy applies to Maxxing AI (hereinafter referred to as the "Application"), a mobile app provided by ZHEN LI (hereinafter referred to as the "Service Provider").
 
 **Information We Collect**
+
 The Application may collect information you provide when you create an account, sign in, manage your profile, purchase a subscription, or use face analysis features. This may include your email address, profile details, authentication identifiers, subscription status, uploaded photos, and analysis results.
 
 When you use face analysis, the Application may upload the image you choose to the Service Provider's backend so the analysis can be generated. The Application does not require precise real-time location data for its core features.
